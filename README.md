@@ -25,7 +25,7 @@ plot the training loss, validation loss vs iteration plot.
 Test the model for your handwritten scanned images.
 
 ## PROGRAM
-
+```python
 ### Name:Sanjay.R
 ### Register Number:212222220038
 import numpy as np
@@ -117,7 +117,7 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 print("Name:Sanjay.R")
 print("Reg no:212222220038")
 
-Include your code here
+```
 
 ## OUTPUT
 
