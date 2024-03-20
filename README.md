@@ -123,11 +123,12 @@ print("Reg no:212222220038")
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![image](https://github.com/sanjay3061/mnist-classification/assets/121215929/09c8b4dd-3ee6-44e9-9e0b-0aef1829b4f2)
+
 
 ### Classification Report
 
-Include Classification Report here
+
 
 ### Confusion Matrix
 
