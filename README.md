@@ -123,22 +123,24 @@ print("Reg no:212222220038")
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
+![image](https://github.com/sanjay3061/mnist-classification/assets/121215929/579de983-b647-4b4e-941f-595afcb09868)
 
-![image](https://github.com/sanjay3061/mnist-classification/assets/121215929/09c8b4dd-3ee6-44e9-9e0b-0aef1829b4f2)
+![image](https://github.com/sanjay3061/mnist-classification/assets/121215929/00d4fae5-ad4e-40a3-9f6d-90c79337ca2a)
 
 
-![image](https://github.com/sanjay3061/mnist-classification/assets/121215929/1ec23c34-ad3b-4c6a-b72c-00ee431936bb)
+![image](https://github.com/sanjay3061/mnist-classification/assets/121215929/284a556d-0995-459b-9a50-e20f3683a5e7)
 
 
 ### Classification Report
 
-![image](https://github.com/sanjay3061/mnist-classification/assets/121215929/67636287-a927-418e-b89c-609d3346a90b)
+![image](https://github.com/sanjay3061/mnist-classification/assets/121215929/d3f08ca9-4c72-4f14-a4b5-98e81d9dcafe)
 
 ### Confusion Matrix
 
-![image](https://github.com/sanjay3061/mnist-classification/assets/121215929/ad74eff9-f145-4b07-9590-3d7503a48f29)
+![image](https://github.com/sanjay3061/mnist-classification/assets/121215929/94e45f59-13ae-42d9-9280-76715554bc40)
 
 ### New Sample Data Prediction
+![image](https://github.com/sanjay3061/mnist-classification/assets/121215929/4f36c2e3-adc4-4c0c-8250-ff92bc7ad9e4)
 
 
 ## RESULT
