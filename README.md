@@ -25,6 +25,12 @@ plot the training loss, validation loss vs iteration plot.
 ### STEP 5:
 Test the model for your handwritten scanned images.
 
+
+
+
+
+
+
 ## PROGRAM
 ```python
 ### Name:Sanjay.R
